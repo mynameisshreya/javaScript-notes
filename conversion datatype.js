@@ -48,7 +48,33 @@
 // console.log(booleanIsLoggedIn)
 
 //string conversion
-let someNumber=33
-let stringNumber=String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber)
+// let someNumber=33
+// let stringNumber=String(someNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber)
+
+
+
+//*******************operation******************************* */
+// let value=3
+// let negValue=-value
+// console.log(negValue)
+// let str1="shreya"
+// let str2=" tripathi"
+// let str3=str1+str2
+// console.log(str3)
+
+
+// console.log(1+"shreya")
+// console.log(7+8)
+// console.log(1+"2")
+
+// console.log("1"+2+2)
+// console.log(1+2+"2")
+
+// console.log((3+4)*8%9)
+console.log(+true);
+console.log(+"")
+let gameCounter=100;
+gameCounter++;
+console.log(gameCounter)

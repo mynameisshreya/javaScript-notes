@@ -1,5 +1,3 @@
-let score=undefined
-console.log(typeof(score))
-let valueInNumber=Number(score);
-console.log(typeof valueInNumber);
-console.log(valueInNumber)
+marvel_heros.push(dc)
+// console.log(marvel_heros)
+// console.log(marvel_heros[3][1])
